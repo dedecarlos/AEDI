@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df7bccc0-8cbf-4274-9b43-7d0dfa476811" name="Changes" comment="Exercicios da aula de AED I do curso de Ciência da Computação da Dom Helder" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/IdeaProjects/AEDI" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dedecarlos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dedecarlos/AEDI.git&quot;,
+    &quot;accountId&quot;: &quot;d1645244-bfde-45f1-988d-af6cee221e34&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3ACrYTkW2rxMdAueWqCurkT8TeU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.C03EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C03ex03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C04EX01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C04EX02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C04EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C04EX04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C04EX05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX01extra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05EX12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06EX15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C07EX01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C07EX02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C07EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C07EX04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX05a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculaFatorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eleicao_10_Candidatos (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Eleicao_10_Candidatos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListarContatos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jpane.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/d29752/OneDrive - FUNDAÇÃO MOVIMENTO DIREITO E CIDADANIA/AED I/AEDI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/D29752/IdeaProjects/AEDI/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df7bccc0-8cbf-4274-9b43-7d0dfa476811" name="Changes" comment="" />
+      <created>1772107450555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772107450555</updated>
+      <workItem from="1772107451754" duration="2650000" />
+      <workItem from="1772110382258" duration="1403000" />
+      <workItem from="1772112757180" duration="1396000" />
+      <workItem from="1772544022735" duration="1566000" />
+      <workItem from="1772621403827" duration="4472000" />
+      <workItem from="1772628830791" duration="1867000" />
+      <workItem from="1772642204006" duration="6894000" />
+      <workItem from="1772662983220" duration="105000" />
+      <workItem from="1772707798434" duration="307000" />
+      <workItem from="1772708400667" duration="8535000" />
+      <workItem from="1772797209915" duration="3534000" />
+      <workItem from="1772890792268" duration="1327000" />
+      <workItem from="1772896346196" duration="49000" />
+      <workItem from="1772896421094" duration="4903000" />
+      <workItem from="1773147972788" duration="4795000" />
+      <workItem from="1773178358691" duration="340000" />
+      <workItem from="1773178981915" duration="3016000" />
+      <workItem from="1773273630449" duration="3281000" />
+      <workItem from="1773497053334" duration="2376000" />
+      <workItem from="1773500616187" duration="7143000" />
+      <workItem from="1773658196379" duration="3359000" />
+      <workItem from="1773703294610" duration="5234000" />
+      <workItem from="1773744187108" duration="1273000" />
+      <workItem from="1773745853845" duration="609000" />
+      <workItem from="1773752553184" duration="1999000" />
+      <workItem from="1773778701268" duration="18000" />
+      <workItem from="1773778749351" duration="6469000" />
+      <workItem from="1773834458138" duration="4689000" />
+      <workItem from="1773858359747" duration="6261000" />
+      <workItem from="1773917589055" duration="7534000" />
+      <workItem from="1774117649883" duration="4182000" />
+      <workItem from="1774128967175" duration="15011000" />
+      <workItem from="1774203405010" duration="1384000" />
+      <workItem from="1774207030215" duration="3608000" />
+      <workItem from="1774284251861" duration="72000" />
+      <workItem from="1774357634620" duration="21000" />
+      <workItem from="1774437152699" duration="3236000" />
+      <workItem from="1774523788011" duration="8690000" />
+      <workItem from="1774617241737" duration="3604000" />
+      <workItem from="1774702827727" duration="17000" />
+      <workItem from="1774702855825" duration="2633000" />
+    </task>
+    <task id="LOCAL-00001" summary="Exercicios da aula de AED I do curso de Ciência da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1772800540911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772800540911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercicios da aula de AED I do curso de Ciência da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1773148056454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773148056455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Calcula e imprime em uma tabela o valor de uma multa a ser paga pelo usuario | Exercicios da aula de AED I do curso de Ciência da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1773148189103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773148189103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercicios da aula de AED I do curso de Ciência da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1773658635349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773658635352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calcula e imprime em uma tabela o valor de uma multa a ser paga pelo usuario | Exercicios da aula de AED I do curso de Ciência da Computação da Dom Helder" />
+    <MESSAGE value="Exercicios da aula de AED I do curso de Ciência da Computação da Dom Helder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios da aula de AED I do curso de Ciência da Computação da Dom Helder" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
