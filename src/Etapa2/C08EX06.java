@@ -8,15 +8,17 @@ import java.util.Scanner;
 
 public class C08EX06 {
     public static void main(String[] args) {
-        int num, soma = 0, divisao = 0, cont1 = 0;
+        int num, soma = 0, divisao = 0;
         Scanner teclado = new Scanner(System.in);
 
         for (int repete = 1; repete <= 10; repete++) {
             System.out.println("Digite um numero inteiro: ");
             num = teclado.nextInt();
             if (num % 2 == 0) {
-                cont1++;
+                System.out.println(num+ " é par");
             }
+            else
+                System.out.println(num+ " é impar");
             if (num % 4 == 0) {
                 soma += num; //soma += num para ele somar os numeros que sao divisiveis por 4
             }
@@ -24,7 +26,6 @@ public class C08EX06 {
                 divisao++;
             }
         }
-        System.out.println("A quantidade de numeros pares é de: " +cont1);
         System.out.println("A soma dos numeros divisiveis por 4 é de: " +soma);
         System.out.println("A quantidade de numeros divisiveis por 3 é de: " +divisao);
         teclado.close();

@@ -9,7 +9,7 @@ import java.text.NumberFormat;
 public class C08EX11 {
     public static void main(String[] args) {
         String nome, nomeSalarioMaior = "", idadeStr, salarioStr, salarioFormatado;
-        String[] botoesSexo = {"M", "F"}, botoesEstadoCivil = {"C", "S", "O"}, botoesCorOlhos = {"A","C","P","O"}, botoesCorCabelo = {"L","P","C","R"}, botoesEscolaridade = {"1","2","3","4"};
+        String[] botoesSexo = {"M", "F"}, botoesEstadoCivil = {"C", "S", "O"}, botoesCorOlhos = {"A", "C", "P", "O"}, botoesCorCabelo = {"L", "P", "C", "R"}, botoesEscolaridade = {"1", "2", "3", "4"};
         int idade, sexo, estadoCivil, escolaridade, corOlhos, corCabelo, contador = 0;
         double salario, salarioMaior = 0, salarioMenor = 0, diferencaSalario = 0;
 
@@ -30,24 +30,24 @@ public class C08EX11 {
             if (sexo == 1 && corCabelo == 0 && corOlhos == 0 && idade >= 18 && idade <= 25 && estadoCivil == 1 && salario >= 10000 && escolaridade == 3)
                 contador++;
 
-            //Compara e salva as informações da pessoa com o maior salário
-            if (repete == 1 || salario > salarioMaior) {
-                salarioMaior = salario;
-                nomeSalarioMaior = nome;
+            if (sexo == 0) {
+                //Compara e salva as informações da pessoa com o maior salário
+                if (repete == 1 || salario > salarioMaior) {
+                    salarioMaior = salario;
+                    nomeSalarioMaior = nome;
+                }
+                //Compara e salva as informações da pessoa com o menor salário
+                if (repete == 1 || salario < salarioMenor) {
+                    salarioMenor = salario;
+                }
             }
-
-            //Compara e salva as informações da pessoa com o menor salário
-            if (repete == 1 || salario < salarioMenor) {
-                salarioMenor = salario;
-            }
-
             //Calcula a diferença salarial
             diferencaSalario = salarioMaior - salarioMenor;
         }
         salarioFormatado = NumberFormat.getCurrencyInstance().format(diferencaSalario); //Usa a configuração atual do Windows para moedas
-        JOptionPane.showMessageDialog(null, "A quantidade de mulheres com especificas qualidades é de "+contador+
-                "\nO nome da pessoa com maior salário é: "+nomeSalarioMaior+
-                "\nA diferença entre o maior e o menor salário é de: "+diferencaSalario,
+        JOptionPane.showMessageDialog(null, "A quantidade de mulheres com especificas qualidades é de " + contador +
+                        "\nO nome da pessoa com maior salário é: " + nomeSalarioMaior +
+                        "\nA diferença entre o maior e o menor salário é de: " + diferencaSalario,
                 "Resultados", JOptionPane.INFORMATION_MESSAGE);
     }
 }

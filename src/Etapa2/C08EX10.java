@@ -31,5 +31,6 @@ public class C08EX10 {
                         "\nA média dos custos parciais é de: "+media+
                         "\nO insumo de maior valor é o: "+insumoMaior,
                 "Resultados", JOptionPane.INFORMATION_MESSAGE);
+        arquivo.close();
     }
 }

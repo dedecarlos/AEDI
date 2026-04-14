@@ -23,12 +23,24 @@ public class C08EX05 {
             else if (voto == 3)
                 contador3++;
         }
-        if (contador1 > contador2 && contador1 > contador3)
-        System.out.println("Fulano foi o ganhador");
-        else if (contador2 >  contador3 && contador2 > contador1)
+        if (contador1 > contador2 && contador1 > contador3) {
+            System.out.println("Fulano foi o ganhador");
+            System.out.println("A quantidade de votos do candidato venccedor foi: " + contador1 +
+                    "\nA quantidade de votos do candidato Ciclano foi:" + contador2 +
+                    "\nA quantidade de votos do candidato Beltrano foi: " + contador3);
+        }
+        else if (contador2 >  contador3 && contador2 > contador1) {
             System.out.println("Ciclano foi o ganhador");
-        else
+            System.out.println("A quantidade de votos do candidato venccedor foi: " + contador2 +
+                    "\nA quantidade de votos do candidato Fulano foi:" + contador1 +
+                    "\nA quantidade de votos do candidato Beltrano foi: " + contador3);
+        }
+        else {
             System.out.println("Beltrano foi o ganhador");
+            System.out.println("A quantidade de votos do candidato venccedor foi: " + contador3 +
+                    "\nA quantidade de votos do candidato Ciclano foi:" + contador2 +
+                    "\nA quantidade de votos do candidato Fulano foi: " + contador1);
+        }
         teclado.close();
     }
 }
