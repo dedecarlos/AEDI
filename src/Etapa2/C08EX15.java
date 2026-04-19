@@ -17,8 +17,9 @@ public class C08EX15 {
         for (int repete = 1; repete <=7; repete++){
             nome = arquivo.nextLine();
             cargo = arquivo.nextLine();
-            salario = Double.parseDouble(arquivo.nextLine());
-            idade = Integer.parseInt(arquivo.nextLine());
+            salario = arquivo.nextDouble();
+            idade = arquivo.nextInt();
+            arquivo.nextLine();
 
             //Analisa se o funcionario é senior ou não de acordo com sua idade e salario
             if (salario >= 10000 && idade >= 50){
