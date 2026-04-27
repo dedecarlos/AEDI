@@ -1,19 +1,20 @@
 public class test {
-    static void main(String[] args) {
-        // Define o formato: String(15 char), Inteiro(10 char), Double(10 char com 2 casas decimais)
-        String formato = "| %-15s | %-10d | %-10.2f |%n";
+    public static void main(String[] args) {
+        int termos = 10000;   // número de termos da série
+        double soma = 0.0;
 
-        // Cabeçalho
-        System.out.println("-------------------------------------------");
-        System.out.printf("| %-15s | %-10s | %-10s |%n", "PRODUTO", "QTD", "PREÇO");
-        System.out.println("-------------------------------------------");
+        for (int k = 0; k < termos; k++) {
+            // cada termo é 1 / (2k+1), alternando sinal
+            double termo = 1.0 / (2 * k + 1);
 
-        // Linhas de Dados
-        System.out.printf(formato, "Caderno", 5, 12.50);
-        System.out.printf(formato, "Caneta Azul", 120, 1.20);
-        System.out.printf(formato, "Mochila", 1, 89.99);
+            if (k % 2 == 0) {
+                soma += termo;   // termos pares (0,2,4...) são somados
+            } else {
+                soma -= termo;   // termos ímpares (1,3,5...) são subtraídos
+            }
+        }
 
-        // Rodapé
-        System.out.println("-------------------------------------------");
+         soma = 4 * soma;
+        System.out.println("Valor aproximado de π com " + termos + " termos: " + soma);
     }
 }

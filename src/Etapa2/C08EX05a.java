@@ -7,8 +7,7 @@ import java.util.Scanner;
 
 public class C08EX05a {
     public static void main(String[] args) {
-        int voto, contador1 = 0, contador2 = 0, contador3 = 0, nulos = 0;
-        int candidatoSegundoturno1 = 0, candidatoSegundoturno2 = 0;
+        int voto, contador1 = 0, contador2 = 0, contador3 = 0, nulos = 0, candidatoSegundoturno1 = 0, candidatoSegundoturno2 = 0;
         String nomeVencedor, nomeCandidato1 = "", nomeCandidato2 = "";
         Scanner teclado = new Scanner(System.in);
 
