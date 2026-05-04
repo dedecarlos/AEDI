@@ -10,12 +10,12 @@ public class C08EX25 {
             for (int aux2 = 1; aux2 <= 10; aux2++) {
                 for (int aux = 1; aux <= aux2; aux++)
                     System.out.print(simbolo);
-                    System.out.println();
+                System.out.println();
             }
             for (int aux2 = 10; aux2 >= 1; aux2--) {
                 for (int aux = 1; aux <= aux2; aux++)
                     System.out.print(simbolo);
-                    System.out.println();
+                System.out.println();
             }
         }
     }
