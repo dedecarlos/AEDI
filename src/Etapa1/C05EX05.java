@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //FUNÇÃO: Calcula os valores de Fahrenheit e Kelvin pelo valor dado de celcius

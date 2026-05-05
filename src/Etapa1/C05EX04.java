@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //FUNÇÃO: Calcula o valor da distância de acordo com os valores de X e Y

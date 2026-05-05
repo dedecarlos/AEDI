@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //FUNCAO: Calcula o valor do raio R de acordo com os valores informados pelo usuário
@@ -15,5 +16,6 @@ public class C05EX08 {
 
         raio = Math.sqrt((360 * area) / (angulo * 3.1416));
         System.out.println("O valor do raio (R) é de: "+raio);
+        teclado.close();
     }
 }

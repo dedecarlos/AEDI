@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 public class C03EX03 {
    public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Etapa1;
 import javax.swing.JOptionPane;
 
 //FUNÇÃO: Cria caixas de dialogo para entrada de dados no programa pelo usuário e imprime em uma nova caixa de dialogo.

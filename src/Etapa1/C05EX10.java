@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //FUNCAO: Pede um numero inteiro de 5 digitos e imprime o resultado como 5 numeros inteiros separados
@@ -21,5 +22,6 @@ public class C05EX10 {
         System.out.println(d3+"\n");
         System.out.println(d4+"\n");
         System.out.println(d5);
+        teclado.close();
     }
 }

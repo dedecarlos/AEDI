@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //FUNCAO: Calcula o valor de F(x) de acordo com o valor de X dado pelo usuário

@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //FUNÇÃO: Calcula o valor do salario liquido e do imposto de renda da pessoa de acordo com o valor do sálario e do número de dependentes

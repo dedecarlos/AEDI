@@ -1,3 +1,4 @@
+package Etapa1;
 import javax.swing.JOptionPane;
 import java.text.NumberFormat;
 import java.util.Scanner;

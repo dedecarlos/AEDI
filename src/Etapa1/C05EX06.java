@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //FUNÇÃO: Calcula a distancia com os valores informados pelo usuário das varives A, B, C, x, y

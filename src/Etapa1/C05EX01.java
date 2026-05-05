@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //FUNÇÃO: Calcula o valor de X dado pelo usuário
