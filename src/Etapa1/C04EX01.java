@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 
 //Função: Imprime o nome completo do usuário e a idade

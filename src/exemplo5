@@ -1,0 +1,14 @@
+#include 
+
+int main()
+{
+  /* Função: Calcular o fatorial de um número */
+  int numero fatorial, contador;
+  printf("Informe um número: ");
+  scanf("%d", &numero);
+  fatorial = 1;
+  for(contador = 1; contador <= numero; contador = contador + 1)
+    fatorial = fatorial * contador;
+  printf("\nFatorial = %d", fatorial);
+  return 0;
+}

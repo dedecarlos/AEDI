@@ -1,0 +1,10 @@
+def main():
+    ...
+    #Função: Calcular o fatorial de um número
+    ...
+    numero = int(input("Informe um número: "))
+    fatorial = 1
+    for contador in range(2, numero + 1):
+        fatorial = fatorial * contador 
+    print("Fatorial = %d" %(fatorial)) 
+main()

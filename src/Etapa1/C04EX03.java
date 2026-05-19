@@ -1,3 +1,4 @@
+package Etapa1;
 import java.util.Scanner;
 import java.text.NumberFormat;
 

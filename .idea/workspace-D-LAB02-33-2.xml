@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c3d47b0-d3f0-4e4d-9343-76252c026921" name="Changes" comment="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <change afterPath="$PROJECT_DIR$/src/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C06EX07.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etapa3/C12EX13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AEDI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AEDI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Etapa1/C06EX07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Etapa1/C06EX07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exemplo6.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dedecarlos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dedecarlos/AEDI&quot;,
+    &quot;accountId&quot;: &quot;522dec4a-4be2-4c9d-a943-7dc017ed7ac0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3CaGb8sGCcGQjP8yWJZkXmzyGl1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.C06EX07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX29.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX30.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08EX31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX10A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX10B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX10C.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX10D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX10E.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX10F.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX11A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX11B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX11C.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX11D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX11E.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX11F.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09EX13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C10EX01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C10EX04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C10EX05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C10EX06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C10EX07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C10EX08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX02a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX02b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX02c.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX04a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX04b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11EX14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C12EX12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RAIZ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.C06EX07Kt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/angelo/Library/CloudStorage/OneDrive-FUNDAÇÃOMOVIMENTODIREITOECIDADANIA/AED I/AEDI/src/Etapa2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Etapa2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3d47b0-d3f0-4e4d-9343-76252c026921" name="Changes" comment="" />
+      <created>1776616337620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776616337620</updated>
+      <workItem from="1776616339541" duration="188000" />
+      <workItem from="1776616553831" duration="554000" />
+      <workItem from="1776617128636" duration="14528000" />
+      <workItem from="1776714977186" duration="12344000" />
+      <workItem from="1776856816536" duration="2986000" />
+      <workItem from="1776939670208" duration="1837000" />
+      <workItem from="1776944748395" duration="3967000" />
+      <workItem from="1777287385909" duration="1483000" />
+      <workItem from="1777379846027" duration="4817000" />
+      <workItem from="1777461682039" duration="3291000" />
+      <workItem from="1777978144151" duration="2697000" />
+      <workItem from="1778063810662" duration="1079000" />
+      <workItem from="1778156819038" duration="1376000" />
+      <workItem from="1778244213293" duration="1762000" />
+      <workItem from="1778494625909" duration="2025000" />
+      <workItem from="1778498108036" duration="1782000" />
+      <workItem from="1778580684740" duration="7095000" />
+      <workItem from="1778668760578" duration="4249000" />
+      <workItem from="1778755867297" duration="5926000" />
+      <workItem from="1778841516322" duration="1231000" />
+      <workItem from="1779185033372" duration="297000" />
+    </task>
+    <task id="LOCAL-00001" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1776620238635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776620238636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777326860676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777326860677</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777326872356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777326872356</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777326889243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777326889243</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777508823402</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777508823402</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777508841307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777508841307</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777858617951</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777858617951</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777858872818</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777858872819</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777859282420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1777859282420</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777859374871</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1777859374872</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder">
+      <option name="closed" value="true" />
+      <created>1777987330454</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1777987330456</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios da aula de AED I do curso de Ciências da Computação da Dom Helder" />
+  </component>
+</project>
