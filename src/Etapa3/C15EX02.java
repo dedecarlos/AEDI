@@ -1,5 +1,7 @@
 package Etapa3;
 
+//AUTOR: ANGELO CARLOS MACHADO SANTOS
+
 public class C15EX02 {
     public static void main(String[] args) {
 

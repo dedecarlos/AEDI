@@ -1,5 +1,7 @@
 package Etapa3;
 
+//AUTOR: ANGELO CARLOS MACHADO SANTOS
+
 public class C15EX02exameespecial extends C15EX01aluno {
     private String dataNascimento;
     private String dataExameEspecial;

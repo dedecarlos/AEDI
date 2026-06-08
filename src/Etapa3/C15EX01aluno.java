@@ -1,5 +1,7 @@
 package Etapa3;
 
+//AUTOR: ANGELO CARLOS MACHADO SANTOS
+
 public class C15EX01aluno {
      String nome;
      int matricula;
