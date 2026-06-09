@@ -7,7 +7,7 @@ public class C15EX02exameespecial extends C15EX01aluno {
     private String dataExameEspecial;
     double notas;
 
-    public C15EX02exameespecial(String nome, int matricula, String curso, int anoIngresso, String dataNascimento, double nota) {
+    public C15EX02exameespecial(String nome, int matricula, String curso, int anoIngresso, String dataNascimento, double notas) {
         super(nome, matricula, curso, anoIngresso);
         this.dataNascimento = dataNascimento;
         this.notas = notas;

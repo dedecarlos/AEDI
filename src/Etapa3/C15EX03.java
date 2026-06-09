@@ -2,7 +2,7 @@ package Etapa3;
 
 //AUTOR: ANGELO CARLOS MACHADO SANTOS
 
-public class C15EX02 {
+public class C15EX03 {
     public static void main(String[] args) {
 
         C15EX02exameespecial aluno1 = new C15EX02exameespecial("Maria Silva", 101, "Direito", 2024, "31/01/1992", 62);
